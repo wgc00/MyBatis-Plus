@@ -1,4 +1,7 @@
 # MyBatis-Plus
+
+## 需要添加的 jar
+
 mybatis plus 插件生成实体
 
 	<mybatis.plus.generator>3.1.2</mybatis.plus.generator>
